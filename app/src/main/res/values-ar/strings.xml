@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الراتب</string>
+    <string name="employee_name">اسم الموظف</string>
+    <string name="add_the_employee">أضف موظف جديد</string>
+    <string name="calculate_salary">احسب الراتب</string>
+    <string name="back_to_home_page">ارجع للقائمة الرئيسيه</string>
+    <string name="hourly_rate">الأجر بالساعه</string>
+
+
+    <string name="home">القائمة الرئيسيه</string>
+    <string name="add_employee">أضف موضف</string>
+    <string name="calculate_employee_s_weekly_payroll">حساب الراتب الاسبوعي</string>
+    <string name="employee_list">قائمة الموظفين</string>
+    <string name="english">الانجليزية</string>
+
+    <string name="press_to_start">اضغط للبدء</string>
+    <string name="current_employee_list">قائمة الموظفين الحاليين</string>
+    <string name="back_to_the_home_page">ارجع للقائمة الرئيسيه</string>
+    <string name="hourly_rates">الاجر بالساعه</string>
+    <string name="the_employee_name">اسم الم</string>
+
+    <string name="employee_id">الرقم الوظيفي</string>
+    <string name="enter_the_hours_worked">ادخل ساعات العمل</string>
+    <string name="calculates_payroll">احسب الرات</string>
+    <string name="payroll_detail">تفاصيل الراتب</string>
+    <string name="this_application_supportes_three_languages_english_arabic_french">هذا التطبيق يدعم ثلاث لغات : الانجليزيه , العربية , الفرنسيه</string>
+
+</resources>

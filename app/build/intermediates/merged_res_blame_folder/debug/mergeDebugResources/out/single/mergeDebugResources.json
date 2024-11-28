@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "edu.oakland.payroll.app-debug-31:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "edu.oakland.payroll.app-main-33:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "edu.oakland.payroll.app-debug-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "edu.oakland.payroll.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "edu.oakland.payroll.app-debug-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "edu.oakland.payroll.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "edu.oakland.payroll.app-debug-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "edu.oakland.payroll.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "edu.oakland.payroll.app-debug-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "edu.oakland.payroll.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "edu.oakland.payroll.app-debug-31:/layout_activity_add_employee.xml.flat",
+        "source": "edu.oakland.payroll.app-main-33:/layout/activity_add_employee.xml"
+    },
+    {
+        "merged": "edu.oakland.payroll.app-debug-31:/drawable_payroll_logo.png.flat",
+        "source": "edu.oakland.payroll.app-main-33:/drawable/payroll_logo.png"
+    },
+    {
+        "merged": "edu.oakland.payroll.app-debug-31:/layout_activity_salary_calculator.xml.flat",
+        "source": "edu.oakland.payroll.app-main-33:/layout/activity_salary_calculator.xml"
+    },
+    {
+        "merged": "edu.oakland.payroll.app-debug-31:/mipmap-xhdpi_ic_launcher_monochrome.png.flat",
+        "source": "edu.oakland.payroll.app-main-33:/mipmap-xhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "edu.oakland.payroll.app-debug-31:/layout_activity_employee_list.xml.flat",
+        "source": "edu.oakland.payroll.app-main-33:/layout/activity_employee_list.xml"
+    },
+    {
+        "merged": "edu.oakland.payroll.app-debug-31:/mipmap-mdpi_ic_launcher_background.webp.flat",
+        "source": "edu.oakland.payroll.app-main-33:/mipmap-mdpi/ic_launcher_background.webp"
+    },
+    {
+        "merged": "edu.oakland.payroll.app-debug-31:/mipmap-mdpi_ic_launcher_monochrome.png.flat",
+        "source": "edu.oakland.payroll.app-main-33:/mipmap-mdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "edu.oakland.payroll.app-debug-31:/drawable_payroll_img.png.flat",
+        "source": "edu.oakland.payroll.app-main-33:/drawable/payroll_img.png"
+    },
+    {
+        "merged": "edu.oakland.payroll.app-debug-31:/mipmap-hdpi_ic_launcher_monochrome.png.flat",
+        "source": "edu.oakland.payroll.app-main-33:/mipmap-hdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "edu.oakland.payroll.app-debug-31:/mipmap-xhdpi_ic_launcher_background.webp.flat",
+        "source": "edu.oakland.payroll.app-main-33:/mipmap-xhdpi/ic_launcher_background.webp"
+    },
+    {
+        "merged": "edu.oakland.payroll.app-debug-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "edu.oakland.payroll.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "edu.oakland.payroll.app-debug-31:/mipmap-xxhdpi_ic_launcher_background.webp.flat",
+        "source": "edu.oakland.payroll.app-main-33:/mipmap-xxhdpi/ic_launcher_background.webp"
+    },
+    {
+        "merged": "edu.oakland.payroll.app-debug-31:/mipmap-xxxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "edu.oakland.payroll.app-main-33:/mipmap-xxxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "edu.oakland.payroll.app-debug-31:/mipmap-xxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "edu.oakland.payroll.app-main-33:/mipmap-xxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "edu.oakland.payroll.app-debug-31:/layout_activity_language_selection.xml.flat",
+        "source": "edu.oakland.payroll.app-main-33:/layout/activity_language_selection.xml"
+    },
+    {
+        "merged": "edu.oakland.payroll.app-debug-31:/xml_backup_rules.xml.flat",
+        "source": "edu.oakland.payroll.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "edu.oakland.payroll.app-debug-31:/xml_data_extraction_rules.xml.flat",
+        "source": "edu.oakland.payroll.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "edu.oakland.payroll.app-debug-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "edu.oakland.payroll.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "edu.oakland.payroll.app-debug-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "edu.oakland.payroll.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "edu.oakland.payroll.app-debug-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "edu.oakland.payroll.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "edu.oakland.payroll.app-debug-31:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "edu.oakland.payroll.app-main-33:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "edu.oakland.payroll.app-debug-31:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "edu.oakland.payroll.app-main-33:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "edu.oakland.payroll.app-debug-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "edu.oakland.payroll.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "edu.oakland.payroll.app-debug-31:/mipmap-hdpi_ic_launcher_background.webp.flat",
+        "source": "edu.oakland.payroll.app-main-33:/mipmap-hdpi/ic_launcher_background.webp"
+    },
+    {
+        "merged": "edu.oakland.payroll.app-debug-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "edu.oakland.payroll.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "edu.oakland.payroll.app-debug-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "edu.oakland.payroll.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "edu.oakland.payroll.app-debug-31:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "edu.oakland.payroll.app-main-33:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "edu.oakland.payroll.app-debug-31:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "edu.oakland.payroll.app-main-33:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "edu.oakland.payroll.app-debug-31:/layout_activity_employee_details.xml.flat",
+        "source": "edu.oakland.payroll.app-main-33:/layout/activity_employee_details.xml"
+    },
+    {
+        "merged": "edu.oakland.payroll.app-debug-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "edu.oakland.payroll.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "edu.oakland.payroll.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "edu.oakland.payroll.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "edu.oakland.payroll.app-debug-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "edu.oakland.payroll.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "edu.oakland.payroll.app-debug-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "edu.oakland.payroll.app-main-33:/drawable/ic_launcher_foreground.xml"
+    }
+]

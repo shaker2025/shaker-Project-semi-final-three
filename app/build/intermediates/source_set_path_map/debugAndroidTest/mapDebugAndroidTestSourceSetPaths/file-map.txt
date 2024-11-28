@@ -1,0 +1,5 @@
+edu.oakland.payroll.test.app-core-1.6.1-0 C:\Users\shaker\.gradle\caches\8.9\transforms\3bb8abf0ed556ba0d0d46b0d5c3152f5\transformed\core-1.6.1\res
+edu.oakland.payroll.test.app-androidTest-1 C:\Users\shaker\Downloads\shaker-Project-semi-final-master\app\build\generated\res\resValues\androidTest\debug
+edu.oakland.payroll.test.app-mergeDebugAndroidTestResources-2 C:\Users\shaker\Downloads\shaker-Project-semi-final-master\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+edu.oakland.payroll.test.app-mergeDebugAndroidTestResources-3 C:\Users\shaker\Downloads\shaker-Project-semi-final-master\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+edu.oakland.payroll.test.app-debugAndroidTest-4 C:\Users\shaker\Downloads\shaker-Project-semi-final-master\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

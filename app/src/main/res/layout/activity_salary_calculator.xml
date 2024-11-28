@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/calculate_employee_s_weekly_payroll"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#03A9F4"
+        android:padding="10dp"/>
+    <TextView
+        android:id="@+id/employeeNameDetail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Employee Name"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:id="@+id/employeeHourlyRate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hourly Rate"
+        android:textSize="18sp"
+
+        />
+
+    <EditText
+        android:id="@+id/hoursWorkedInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Hours Worked"
+        android:layout_gravity="center_horizontal"/>
+
+    <Button
+        android:id="@+id/calculatePayrollButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Calculate Payroll"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="20dp"
+        android:backgroundTint="#03A9F4"
+        android:textColor="#FFEB3B"
+        android:textSize="18sp"/>
+
+    <TextView
+        android:id="@+id/payrollOutput"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Payroll Details"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_gravity="center_horizontal"/>
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        android:padding="5dp"
+        android:id="@+id/salaryList"
+        android:layout_margin="10dp"/>
+
+    <Button
+        android:id="@+id/EmployeeListButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/employee_list"
+        android:layout_margin="20dp"
+        android:layout_gravity="center_horizontal"
+        android:backgroundTint="#03A9F4"
+        android:textColor="#FFEB3B"
+        android:textSize="18sp"/>
+</LinearLayout>
+

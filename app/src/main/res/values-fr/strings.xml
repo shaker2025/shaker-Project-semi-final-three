@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">paie</string>
+    <string name="employee_name">Nom de l\'employé</string>
+    <string name="add_the_employee">Ajouter l\'employé</string>
+    <string name="calculate_salary">Calculer le salaire</string>
+    <string name="back_to_home_page">Retour à la page d\'accueil</string>
+    <string name="hourly_rate">taux horaire</string>
+    <string name="home">maison</string>
+    <string name="add_employee">Ajouter un employé</string>
+    <string name="calculate_employee_s_weekly_payroll">Calculer la paie hebdomadaire des employés</string>
+    <string name="employee_list">Liste des employés</string>
+    <string name="english">Anglaise</string>
+
+    <string name="press_to_start">Appuyez pour démarrer</string>
+    <string name="current_employee_list">Liste des employés actuels</string>
+    <string name="back_to_the_home_page">Retour à la page d\'accueil</string>
+    <string name="hourly_rates">Tarifs horaires</string>
+    <string name="the_employee_name">Le nom de l\'employé</string>
+    <string name="employee_id">identifiant d\'employé</string>
+    <string name="enter_the_hours_worked">saisir les heures travaillées</string>
+    <string name="calculates_payroll">calcule la paie</string>
+    <string name="payroll_detail">détail de la paie</string>
+    <string name="this_application_supportes_three_languages_english_arabic_french">Cette application prend en charge trois langues : anglais, arabe et français.</string>
+</resources>

@@ -1,0 +1,2 @@
+edu.oakland.payroll.test:style/WhiteBackgroundTheme = 0x7f010001
+edu.oakland.payroll.test:style/WhiteBackgroundDialogTheme = 0x7f010000

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/add_the_employee"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#03A9F4"
+        android:padding="10dp"/>
+    <EditText
+        android:id="@+id/employeeName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/employee_name"
+        android:imeOptions="actionNext"/>
+
+    <EditText
+        android:id="@+id/employeeId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/employee_id"
+        android:imeOptions="actionNext"/>
+
+    <EditText
+        android:id="@+id/hourlyRate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/hourly_rates"
+        android:imeOptions="actionGo"
+        />
+
+    <Button
+        android:id="@+id/salaryButton"
+        android:layout_width="220dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/calculate_salary"
+        android:backgroundTint="#03A9F4"
+        android:textColor="#FFEB3B"
+        android:textSize="18sp"/>
+    <Button
+        android:id="@+id/backhome2"
+        android:layout_width="220dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/back_to_home_page"
+        android:backgroundTint="#03A9F4"
+        android:textColor="#FFEB3B"
+        android:textSize="18sp"/>
+</LinearLayout>

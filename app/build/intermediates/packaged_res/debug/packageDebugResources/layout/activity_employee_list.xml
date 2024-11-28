@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/current_employee_list"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#03A9F4"
+        android:padding="10dp"/>
+
+    <ListView
+        android:id="@+id/employeeList"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+         />
+
+    <Button
+        android:id="@+id/addEmployeeButton"
+        android:layout_width="220dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/add_employee"
+        android:backgroundTint="#03A9F4"
+        android:textColor="#FFEB3B"
+        android:textSize="18sp"/>
+    <Button
+        android:id="@+id/backhome1"
+        android:layout_width="220dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/back_to_the_home_page"
+        android:backgroundTint="#03A9F4"
+        android:textColor="#FFEB3B"
+        android:textSize="18sp"/>
+</LinearLayout>
